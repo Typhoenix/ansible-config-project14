@@ -1,4 +1,4 @@
-p pipeline {
+ pipeline {
     agent any
 
 
