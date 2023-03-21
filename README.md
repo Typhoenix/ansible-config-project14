@@ -1,11 +1,9 @@
 #### Dependences to be installed
 ====================================
 - yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
-- sudo
-- yum install python3 python3-pip wget unzip git -y
+- sudo yum install python3 python3-pip wget unzip git -y
 - python3 -m pip install --upgrade setuptools
 - python3 -m pip install --upgrade pip
-- python3 -m pip install PyMySQL
 - python3 -m pip install mysql-connector-python
 - python3 -m pip install psycopg2==2.7.5 --ignore-installed
 
